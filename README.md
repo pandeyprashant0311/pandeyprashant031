@@ -1,15 +1,11 @@
 <div align="center">
 <img src="pandey-prashant.gif" align="center" style="width: 80%" />
 </div>  
-  
-  <p align="center">
-<img height="250em" src="./b08eba94-6c35-491a-aada-083a5309b5de_200x200.png" />
-</p>
-
+ 
 ## About Me
 
 - I love to exploring new technologies, building small projects, innovating and tinkering with stuff and leveraging them to solve real-life problems.
-- **Binge-Watcher** by Day , **MERN & KOTLIN Developer** by night (well, sometimes :smile:) .
+- A Night- Owl🦉 **Coder** + **Binge-Watcher**.
 - Experimenting with the **Development-Zone** as well and currently working on some side-project.
 - Windows user + Fan of **LINUX**.
 - Have a keen interest in Writing & Volleyball.
