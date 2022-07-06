@@ -37,7 +37,6 @@
 </a>
 </p>
 
-<hr/>
 
 
 <h3> My Activity</h3> 
@@ -55,6 +54,7 @@
   <img src="https://profile-counter.glitch.me/pandeyprashant0311/count.svg" />
 </p>
 <br/>  
+<hr/>
 <p align="center">
 
 <h3 align="center">Connect with me</h3>
