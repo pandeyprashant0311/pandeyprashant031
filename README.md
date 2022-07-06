@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://github.com/Kashyap-Harsh/Kashyap-Harsh/blob/master/Harsh.gif" align="center" style="width: 80%" />
+<img src="" align="center" style="width: 80%" />
 </div>  
   
   
