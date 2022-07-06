@@ -8,23 +8,13 @@
 
 ## About Me
 
-- A **Computer Engineer** who loves exploring new technologies, building small projects, innovating and tinkering with stuff.
+- I love to exploring new technologies, building small projects, innovating and tinkering with stuff and leveraging them to solve real-life problems.
 - **Binge-Watcher** by Day , **MERN & KOTLIN Developer** by night (well, sometimes :smile:) .
 - Experimenting with the **Development-Zone** as well and currently working on some side-project.
-- Enjoys **LINUX**.
-- Have a keen interest in BlockChain & Chess.
-
-## <div align="center">I'm a third-year CSE student from Thapar 👨‍💻 and I am an ML enthusiast with a knack for coding. 🚀</div>  
+- Windows user + Fan of **LINUX**.
+- Have a keen interest in Writing & Volleyball.
   
 
-- ###### I am in Junior undergrad at Thapar and I am a passionate learner.😎  
-  
-
-- ###### 🌱 I’m currently learning Machine Learning and Flutter 
-  
-- ###### ✨ I love to explore new technologies and leverage them to solve real-life problems.
-
-- ###### ⚡ Fun fact: I use keyboard over mouse.  
 
 ## Tech/Software Stack
 
@@ -57,9 +47,17 @@
 <h3> My Activity</h3> 
 
 
-![Activity Graph](https://activity-graph.herokuapp.com/graph?username=Harsh23Kashyap&theme=github&area=true&custom_title=Harsh's%20Activity&hide_border=true)
+![Activity Graph](https://activity-graph.herokuapp.com/graph?username=pandeyprashant0311&theme=github&area=true&custom_title=Harsh's%20Activity&hide_border=true)
 
 
+
+  
+
+<br/>  
+<p align="center"> 
+  <b>Visitors</b> :<br>
+  <img src="https://profile-counter.glitch.me/pandeyprashant0311/count.svg" />
+</p>
 <br/>  
 <p align="center">
 
@@ -68,12 +66,3 @@
 <a href="https://www.linkedin.com/in/prashant--pandey/"><img title="LinkedIn" src="https://raw.githubusercontent.com/ronan696/ronan696/master/assets/linkedin.svg"/></a>&nbsp;&nbsp;
 <a href="https://www.instagram.com/prashant_the_lucky_lad/"><img title="Instagram" src="https://raw.githubusercontent.com/ronan696/ronan696/master/assets/instagram.svg"/></a>&nbsp;&nbsp;
 </p>
-
-  
-
-<br/>  
-<p align="center"> 
-  <b>Visitors</b> :<br>
-  <img src="https://profile-counter.glitch.me/Kashyap-Harsh/count.svg" />
-</p>
-----
