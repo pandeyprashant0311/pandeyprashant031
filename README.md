@@ -4,7 +4,7 @@
  
 ## About Me
 
-- I love to exploring new technologies, building small projects, innovating and tinkering with stuff and leveraging them to solve real-life problems.
+- I love building small projects, exploring, innovating and tinkering with new technologies to solve real-life problems.
 - A Night- Owl🦉 **Coder** + **Binge-Watcher**.
 - Experimenting with the **Development-Zone** as well and currently working on some side-project.
 - Windows user + Fan of **LINUX**.
